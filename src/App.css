@@ -1,0 +1,11 @@
+.card {
+  padding: 20px !important;
+  margin: 2px
+}
+
+body{
+  background-color: rgb(218, 227, 227) !important;
+}
+a{
+  text-decoration: none !important;
+}
